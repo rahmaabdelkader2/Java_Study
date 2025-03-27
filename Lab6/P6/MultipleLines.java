@@ -43,7 +43,6 @@ public class MultipleLines extends Applet {
                     lines[lineCount][2] = end_point_x;
                     lines[lineCount][3] = end_point_y;
                     lineCount++;
-                    //warningMessage = ""; // Clear warning lw 2a2l
                 } else {
                     warningMessage = "3 lines only plz";
                 }

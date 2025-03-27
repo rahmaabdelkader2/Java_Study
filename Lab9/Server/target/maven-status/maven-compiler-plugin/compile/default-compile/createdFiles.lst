@@ -1,0 +1,4 @@
+com\mycompany\server\SystemInfo.class
+com\mycompany\server\ChatHandler.class
+module-info.class
+com\mycompany\server\ChatServer.class
